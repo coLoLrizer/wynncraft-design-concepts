@@ -1,12 +1,12 @@
 # Telekinetic — Class Lore & Overview
-*A custom Wynncraft-style class concept by Timur*
+*A custom Wynncraft-style class concept by Me*
 
 ---
 
 ## 1. Class Overview
 
 **Class Name:** Telekinetic  
-**Role:** Control / Burst / Hybrid Frontline Caster  
+**Role:** Hybrid Frontline Caster  
 **Weapon:** **Focus** (psionic conduit)
 
 ### Kinetic Pulse — Main Attack  
@@ -23,7 +23,7 @@ The class stays between melee and caster: short-range attacks, but high precisio
 
 ## 2. Class Fantasy
 
-The **Telekinetic** is a psionic fighter who reshapes the battlefield through willpower alone. Air compresses, stone shatters, gravity bends — every motion is echoed by invisible force.
+The **Telekinetic** is a mental fighter who reshapes the battlefield through willpower alone. Air compresses, stone shatters, gravity bends — every motion is echoed by invisible force.
 
 Gameplay revolves around **space control**, rhythm, and positional mastery. Instead of blades, you fight with **momentum, pressure, and direction**.
 
