@@ -1,4 +1,4 @@
-# Bak'al's Grasp
+# Bloodbath (Major ID concept Below)
 
 **Slow Attack Speed**
 
